@@ -103,13 +103,3 @@ No matplotlib, no audio, no networking.
 
 ---
 
-## Course context
-
-This project was developed for COMP9001 at the University of Sydney. The unit covers introductory Python, and the final project asked students to apply at least two "advanced topics" from the syllabus. NeuroSim demonstrates four:
-
-1. **Multi-dimensional lists and NumPy** — 2D signal matrices, FFT-based PSD, `np.roll` for seamless scrolling animation
-2. **File Input/Output** — JSON-based leaderboard persistence
-3. **More Flow Control** — custom exception class hierarchy, `raise` / `try` / `except` / `continue` / `break` patterns
-4. **Testing** — 11 unit tests using the `unittest` module
-
----
