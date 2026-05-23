@@ -59,8 +59,6 @@ is a human-vs-AI showdown.
   >>>  Run main.py  <<<
 
 
-NOTE FOR TUTOR
---------------
 This program uses libraries OUTSIDE Python's built-in libraries:
 
     - numpy   (numerical arrays, FFT)
