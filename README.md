@@ -41,8 +41,6 @@ Each round, the program generates a noisy four-channel EEG signal in one of thes
 
 ## How to run
 
-### Note for tutors
-
 This program uses libraries **outside** Python's built-in libraries:
 
 - `numpy` (numerical arrays, FFT)
