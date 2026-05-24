@@ -22,7 +22,7 @@ Each round, the program generates a noisy four-channel signal in one of these ba
 
 Requires Python 3.9+, `numpy`, and `pygame`. Opens a graphical window, so it **will not run inside Ed** — please use PyCharm or a normal terminal.
 
-**PyCharm:** open the `neurosim` folder, accept the venv prompt, install `requirements.txt`, then right-click `main.py` → Run.
+**PyCharm:** open the `neurosim` folder, install `requirements.txt`, then right-click `main.py` → Run.
 
 **Terminal:**
 ```bash
